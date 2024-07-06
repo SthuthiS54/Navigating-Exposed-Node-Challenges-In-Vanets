@@ -13,6 +13,7 @@ Vehicular Adhoc Network (VANET) is a network that uses the wireless medium to es
 - [Simulations](#simulations)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Team Members](#team-members)
 
 ## Introduction
 
@@ -33,5 +34,11 @@ The results of the simulations indicate that the dynamic calculation of network 
 ## Conclusion
 
 By dynamically adjusting the transmission range based on vehicle density, the proposed method effectively reduces node exposure, collisions, and waiting times in VANETs, leading to improved network performance.
+
+## Team Members
+
+- Sthuthi S - 221CS156
+- Chirag S - 221CS214
+- Varahi Suvarna - 221CS259
 
 
